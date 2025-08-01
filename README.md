@@ -100,7 +100,7 @@ To maintain persistence, I developed `start_up.py`, which programmatically added
 
 ## Acknowledgement
 
-Thank you for all the open-source developers and contributers whoc made this posiable.<br>Also, thatns to [FZGbzuw412](https://github.com/FZGbzuw412/Python-RAT/) who made my life easier by creating and sharing a ready-to-use python-based RAT!!
+Thank you for all the open-source developers and contributers who made this posiable.<br>Also, thatns to [FZGbzuw412](https://github.com/FZGbzuw412/Python-RAT/) who made my life easier by creating and sharing a ready-to-use python-based RAT!!
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sohan-simha-p/). Thank you!
 
