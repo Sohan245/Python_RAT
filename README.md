@@ -20,7 +20,7 @@ I was fortunate—and pleasantly surprised—to land an internship without an in
 
 My internship at [Third Coast](https://www.linkedin.com/company/third-coast/) began in mid-2025. Initially, I was assigned to perform a cybersecurity audit to evaluate the company's internal security posture and gain practical exposure.
 
-*What began as a routine audit turned into an eye-opening lesson on trusted sources and endpoint evasion.*
+> *What began as a routine audit turned into an eye-opening lesson on trusted sources and endpoint evasion.*
 
 ---
 
@@ -32,7 +32,7 @@ On day one, I informed my manager, [Brent Foster](https://www.linkedin.com/in/br
 
 The main objective of my internship was simple: to learn and apply something meaningful in a real-world context.
 
-*If you want something, just ASK!*
+> *If you want something, just ASK!*
 
 ---
 
@@ -53,7 +53,7 @@ I tested this with other Microsoft Store applications as well. It worked. I imme
 
 I began with a simple Python-based keylogger, but results were limited. I moved on to testing reverse shells using [revshells](https://www.revshells.com). Naming my file `ping_me.py`, I found that Windows Defender flagged and deleted it. However, executing the same code directly in the PowerShell environment—in-memory—worked flawlessly.
 
-*Have you tried asking yourself "WHY"?*
+> *Have you tried asking yourself "WHY"?*
 
 ---
 
