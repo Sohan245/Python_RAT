@@ -63,7 +63,7 @@ After establishing a successful reverse shell, Brent suggested pushing furtherâ€
 
 Taking his advice, I integrated an existing open-source [Python RAT](https://github.com/FZGbzuw412/Python-RAT/tree/main). With this, I managed to establish a fully functional Python-based RAT without triggering Defender, antivirus software, or EDR systems.
 
-![[proof1.png]]
+<img width="1604" height="804" alt="proof1" src="https://github.com/user-attachments/assets/ecdbc15d-b22c-4f79-9e98-e66a1eaab789" />
 
 Still, I wasn't satisfied. A `.py` file execution isn't stealthy or realistic in an actual attack scenario. So, I used `PyInstaller` to convert the Python script into a `.exe` file for better believability.
 
@@ -75,11 +75,11 @@ The `.exe` file worked, but required manual execution to establish the RAT conne
 
 To maintain persistence, I developed `start_up.py`, which programmatically added the `test_exe.exe` file to the system's startup programs. Interestingly, I couldn't add it manually, but the script succeededâ€”a testament to privilege gaps and inconsistent security policies.
 
-![[workflow.png]]
+<img width="831" height="311" alt="workflow" src="https://github.com/user-attachments/assets/8559e98e-db82-4f3f-bda3-c8b7671bc6ff" />
 
 #### {PROOF.TXT}
 
-![[proof2.png]]
+<img width="1604" height="1155" alt="proof2" src="https://github.com/user-attachments/assets/b527e206-6a4b-4680-b1b5-4c0da912709e" />
 
 ---
 
