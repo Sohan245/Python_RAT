@@ -77,7 +77,7 @@ To maintain persistence, I developed `start_up.py`, which programmatically added
 
 <img width="831" height="311" alt="workflow" src="https://github.com/user-attachments/assets/8559e98e-db82-4f3f-bda3-c8b7671bc6ff" />
 
-#### {PROOF.TXT}
+#### {PROOF.PNG}
 
 <img width="1604" height="1155" alt="proof2" src="https://github.com/user-attachments/assets/b527e206-6a4b-4680-b1b5-4c0da912709e" />
 
