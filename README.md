@@ -7,7 +7,7 @@
 4. Cross-Origin Resource Sharing (CORS) abuse due to improper access control implementation.
 5. Installation and execution of blocked applications and utilities due to weak EDR configurations.
 
-> **Note**: This blog focuses on how I utilized Python to gain Remote Access Toolkit (RAT) persistence.\n
+> **Note**: This blog focuses on how I utilized Python to gain Remote Access Toolkit (RAT) persistence.<br>
 > Python is really venomous!
 
 ---
